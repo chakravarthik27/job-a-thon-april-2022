@@ -1,0 +1,8 @@
+pandas
+numpy
+hoildays
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
